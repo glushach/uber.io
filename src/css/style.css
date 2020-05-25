@@ -183,11 +183,11 @@ nav {
   display: flex; /*Разпространяется на .reasons_round и reasons_descr*/
   justify-content: center;
   align-items: flex-start;
-  margin-top: 40px;  /*35px*/
+  margin-top: 35px;  /*35px*/
 }
 
 .reasons .reasons_block .reasons_round {
-  margin: 20px 24px 0 0;
+  margin: 10px 24px 0 0; /*20px*/
   display: flex; /*Распространяется на img*/
   justify-content: center;
   align-items: center;
